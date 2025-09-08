@@ -18,8 +18,6 @@ Erva is a web application that helps users identify diseases in plants. By uploa
 
 ## Getting Started
 
-The application is built to run in a development environment like Firebase Studio.
-
 To start the development server, run:
 
 ```bash
